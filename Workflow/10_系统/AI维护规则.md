@@ -15,7 +15,7 @@ created: 2026-06-16
 
 一个博士生（我）的个人行政事务知识库，存放在 Obsidian vault 中。
 
-路径：`finance/Admin_Workflow/`
+路径：`Admin/Workflow/`
 
 ---
 
@@ -114,7 +114,7 @@ created: 2026-06-16
 ## 七、仓库结构速查
 
 ```
-Admin_Workflow/
+Workflow/
 ├── 00_总入口.md           ← 每天看这个
 ├── 01_报销/              ← 报销流程 SOP
 ├── 02_盖章/              ← 盖章流程 SOP
