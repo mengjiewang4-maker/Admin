@@ -1,2 +1,9 @@
 raw/BIT财务报销指南.pdf
 .DS_Store
+
+# 超大二进制目录（含 >100MB 单文件，GitHub 拒收；走坚果云/本地）
+PPT_AI/
+双创申请书/
+
+# Office/系统临时锁文件
+.~*
